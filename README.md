@@ -22,13 +22,13 @@ Passionate about building robust, scalable, and secure backend systems using mod
 ### [DesignPattern](https://github.com/hpradeep26/DesignPattern)
 💡 Implementation of Creational, Structural, and Behavioral design patterns in Java. Clean, reusable, and maintainable code following industry best practices.
 
-### [spring-kafka](https://github.com/hpradeep26/spring-kafka)
+### [Spring-Kafka Demo](https://github.com/hpradeep26/spring-kafka)
 📨 Microservice integration using **Spring Boot** and **Apache Kafka** for event-driven communication. Includes producer/consumer configs, message serialization, error handling, and **Spring Security**-protected endpoints.
 
 ### [TodoManager](https://github.com/hpradeep26/TodoManager)
 ✅ Task management CRUD app built with **Spring Boot + MySQL**, secured with **Spring Security** for authentication and role-based authorization. Demonstrates layered architecture & transactional persistence.
 
-### [Spring-Transaction](https://github.com/hpradeep26/Spring-Transaction)
+### [Spring-Transaction Demo](https://github.com/hpradeep26/Spring-Transaction)
 🔄 Hands-on examples of **Spring transaction management** with JDBC & JPA, covering propagation types, isolation levels, and rollback strategies.
 
 ### [Microservices Demo](https://github.com/hpradeep26/Hotel-Rating-SpringBoot-Microservice)
