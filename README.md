@@ -31,7 +31,7 @@ Passionate about building robust, scalable, and secure backend systems using mod
 ### [Spring-Transaction Demo](https://github.com/hpradeep26/Spring-Transaction)
 🔄 Hands-on examples of **Spring transaction management** with JDBC & JPA, covering propagation types, isolation levels, and rollback strategies.
 
-### [Microservices Demo](https://github.com/hpradeep26/Hotel-Rating-SpringBoot-Microservice)
+### [Hotel-Rating-SpringBoot-Microservice](https://github.com/hpradeep26/Hotel-Rating-SpringBoot-Microservice)
 🌐 End-to-end Java microservices with **Spring Boot**, **Spring Security (JWT)**, and MySQL. Implements service discovery, secure inter-service communication, and fault tolerance.
 
 ---
